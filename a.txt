@@ -12,3 +12,7 @@ git2 eidt
 other edit
 >>>>>>> a9c5267e4d537742dbc1f71b55f35ba279ead65f
 >>>>>>> 8e9e9f3b9a1caad816fab95780462a6e674e6cf9
+
+
+
+git3 editor
